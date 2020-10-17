@@ -1,2 +1,2 @@
-# 2-2_learning
-【DMM WEBCAMP】Ruby　第２章の学習内容です
+# 2-3_learning
+【DMM WEBCAMP】Ruby　第３章の学習内容です
